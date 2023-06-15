@@ -17,6 +17,6 @@ The live service distribution is final, and it is okay to use the functions in g
 The purpose is to improve code quality and improve service quality through free PR between productions.<br/><br/>
 
 ## 💻 Participants
-- [minsang Kwak](mailto:kmsdevwork@gmail.com)<br/>
-- [ji-in Kim](mailto:metamong316k@gmail.com)<br/>
-- [junha Yoon](mailto:ggulto2@gmail.com)
+- [Minsang Kwak](mailto:kmsdevwork@gmail.com)<br/>
+- [Doa Kim](mailto:metamong316k@gmail.com)<br/>
+- [Junha Yun](mailto:ggulto2@gmail.com)
