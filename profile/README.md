@@ -18,5 +18,5 @@ The purpose is to improve code quality and improve service quality through free 
 
 ## 💻 Participants
 - [Minsang Kwak](mailto:kmsdevwork@gmail.com)<br/>
-- [Ji in Kim](mailto:metamong316k@gmail.com)<br/>
+- [Narin Kim](mailto:metamong316k@gmail.com)<br/>
 - [Junha Yun](mailto:ggulto2@gmail.com)
